@@ -230,7 +230,7 @@ def Vitals():
          }}
     </script>
     <footer>
-        <p style="text-align:center; color: white; background-color: black">© 2020 Nathan Kirk (Ulster University Jordanstown)</p>
+        <p style="text-align:center; color: white; background-color: black">©(Ulster University)</p>
     </footer>
     </body>
   </html>
